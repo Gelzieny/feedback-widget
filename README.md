@@ -23,7 +23,7 @@ Este é um projeto desenvolvido durante a Next Level Week, apresentado pela **[R
 
 ## 📱 Demo
 
-Confira a aplicação: https://gelzieny.github.io/DoctorCare/
+Confira a aplicação: https://feedback-widget-gilt.vercel.app/
 
 ## 🎯 Funcionalidades
 
