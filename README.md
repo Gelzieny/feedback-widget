@@ -69,7 +69,7 @@ $ npm run dev
 # Faça uma copia do arquivo `.env.example` para `.env` e preencha com as suas credenciais
 ```
 
-A aplicação pode ser acessada em [`localhost:3334`](http://localhost:3334).
+A aplicação pode ser acessada em [`localhost:3000`](http://localhost:3000).
 
 ## 🔖 Layout
 
