@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="beauty salon" title="beauty salon" src=".github/logo.png" width="250px" />
+</h1>
+
 <p align="center">
   <img alt="Next Level Week #8" src=".github/logo.png" />
 </p>
