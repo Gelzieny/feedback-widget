@@ -19,6 +19,8 @@ Este é um projeto desenvolvido durante a Next Level Week, apresentado pela **[R
 
 ## 📱 Demo
 
+Confira a aplicação: https://gelzieny.github.io/DoctorCare/
+
 ## 🎯 Funcionalidades
 
 - ✔️ Envio de feedbacks
@@ -44,8 +46,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o repositório e acesse a pasta.
 
 ```bash
-$ git clone https://github.com/devlucascardoso/feedback-widget
-$ cd nlw8
+$ git clone https://github.com/Gelzieny/feedback-widget.git
+$ cd feedback-widget-g
 ```
 
 Para iniciá-lo, siga os passos abaixo:
