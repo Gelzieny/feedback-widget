@@ -44,6 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Prisma](https://www.prisma.io)
 - [PostgreSQL](https://www.postgresql.org)
 - [Jest](https://jestjs.io)
+- [Mailtrap](https://mailtrap.io/)
 
 ## 🚀 Como executar
 
